@@ -82,7 +82,8 @@ nav > a:hover {
 }
 
 nav > a:active {
-    padding: 100%;
+    transition-duration: 200ms;
+    padding: 200%;
 }
 
 main {
